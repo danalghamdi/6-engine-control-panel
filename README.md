@@ -1,1 +1,2 @@
-# 6-engine-control-panel
+# 6-engine-control-page
+this repository is a web page for controlling the robotic arm.  
